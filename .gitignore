@@ -1,0 +1,9 @@
+# Local binaries — too large for Git; keep screenshots instead
+*.pbix
+*.xlsx
+*.xls
+*.xlsm
+~$*
+.DS_Store
+Thumbs.db
+*.tmp
