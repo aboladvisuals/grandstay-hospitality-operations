@@ -1,5 +1,7 @@
 # GrandStay Hospitality — Operations Intelligence
 
+> **Portfolio case study:** https://aboladvisuals.github.io/projects/grandstay-hospitality-operations/
+
 Portfolio case study: guest-support baseline for a global hospitality group (luxury, business, and extended-stay).
 
 **Analyst:** [aboladvisuals](https://github.com/aboladvisuals)  
